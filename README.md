@@ -67,4 +67,4 @@ PUTCHAR_PROTOTYPE
 ## Output screen shots of Serial port utility   :
  ![image](https://github.com/user-attachments/assets/24a53250-c256-4bc2-a6f4-b6a7ebb08201)
 ## Result :
-configuring and usart is accomplished and string data is visualized on the serial port utilty
+Configuring and usart is accomplished and string data is visualized on the serial port utilty.
