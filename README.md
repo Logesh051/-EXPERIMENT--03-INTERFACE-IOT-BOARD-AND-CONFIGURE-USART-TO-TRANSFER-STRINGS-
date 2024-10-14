@@ -2,7 +2,7 @@
 
 ###  NAME: Logesh.N.A
 ###  ROLL NO :212223240078
-###  DEPARTMENT: AIML
+###  DEPARTMENT: B TECH AIML
 
 # EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
@@ -67,4 +67,4 @@ PUTCHAR_PROTOTYPE
 ## Output screen shots of Serial port utility   :
  ![image](https://github.com/user-attachments/assets/24a53250-c256-4bc2-a6f4-b6a7ebb08201)
 ## Result :
-Configuring and usart is accomplished and string data is visualized on the serial port utilty.
+configuring and usart is accomplished and string data is visualized on the serial port utilty
